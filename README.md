@@ -55,6 +55,18 @@ unsubscribe();
 node example.js
 ```
 
+## Run Tests
+
+```bash
+node test.js             # Run test suite (9 tests)
+```
+
+Tests cover:
+- Observer pattern (subscribe/unsubscribe/notify)
+- Set operations (unique user tracking)
+- Map operations (user preferences)
+- Integration of all features
+
 ## Key Concepts Demonstrated
 
 ### Observer Pattern
